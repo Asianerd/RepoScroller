@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"d:/GithubRepos/RepoScroller/Content/blank.png","d:/GithubRepos/RepoScroller/Content/bin/Windows/Content/blank.xnb","TextureProcessor","Texture2DContent",81,89,0.2318184
+"d:/GithubRepos/RepoScroller/Content/blankX2.png","d:/GithubRepos/RepoScroller/Content/bin/Windows/Content/blankX2.xnb","TextureProcessor","Texture2DContent",91,101,0.0021492
+"d:/GithubRepos/RepoScroller/Content/mainFont.spritefont","d:/GithubRepos/RepoScroller/Content/bin/Windows/Content/mainFont.xnb","FontDescriptionProcessor","SpriteFontContent",2436,75012,0.2229094
+"d:/GithubRepos/RepoScroller/Content/window.png","d:/GithubRepos/RepoScroller/Content/bin/Windows/Content/window.xnb","TextureProcessor","Texture2DContent",126,985,0.0040231
